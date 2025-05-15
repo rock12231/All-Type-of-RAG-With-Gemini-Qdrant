@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FOU9oZV_6bauCN-Sc0RsDHDGtILDPFCw?usp=sharing)
+
 # RAG with Gemini & Qdrant Examples
 
 This Jupyter Notebook (`RAG_with_Gemini_&_Qdrant.ipynb`) provides practical examples and implementations of various Retrieval-Augmented Generation (RAG) patterns. It utilizes Google's Gemini API for powerful language generation and embeddings, and Qdrant as the vector database for efficient semantic search and retrieval.
